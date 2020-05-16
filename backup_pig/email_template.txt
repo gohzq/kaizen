@@ -1,0 +1,11 @@
+Hi all inventors and managers, 
+
+Congratualations to <inventor_names> for your patent pursue - <docket_number>. 
+
+Thanks to all managers <manager_names> for your support in innovation. 
+
+.
+.
+.
+
+For <primary_inventor> and <primary_inventor_manager>, you are invited to write a 10 words sentence. 
