@@ -1,0 +1,18 @@
+<docket_number>: [DSC1000]
+<inventor_names>: [Tan AK, Ong BC, Eng TY]
+<manager_names>: [Goh Jackey, Lim LL, Andos Eng]
+
+<docket_number>: [DSC2000]
+<inventor_names>: [Lau ZW, Tan Emily, Tiong PK]
+<manager_names>: [Chan Jun, Lam TW, KK Chee]
+
+<docket_number>: [DSC3000]
+<inventor_names>: [Jelvin Chan, Jiavis Tomson, Mellisa Craig]
+<manager_names>: [Ai Kim, Song Koii, Chii Hyuna, Gorgie Drake]
+<docket_number>: [DSC5000]
+<inventor_names>: [tan hellow, poh ehx]
+<manager_names>: [Jandon, Jsaosn, XML]
+
+<docket_number>: [DSC4000]
+<inventor_names>: [AAA, BBB]
+<manager_names>: [CCC]
